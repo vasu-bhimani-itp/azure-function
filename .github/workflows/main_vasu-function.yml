@@ -75,3 +75,5 @@ jobs:
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1A091BF699C6401DACBAFA73C4D31F7B }}
           sku: flexconsumption
           remote-build: true
+
+          
